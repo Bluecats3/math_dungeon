@@ -15,7 +15,7 @@ Each correct answer moves you forward, while wrong answers reduce your health.
   - Multiplication
 - If you answer correctly → you move forward  
 - If you answer incorrectly → you lose health
-- 
+  
  Reach the final room to escape the dungeon!
 
 ---
